@@ -38,8 +38,11 @@ GEM
     public_suffix (5.0.3)
  main
     rainbow (3.0.0)
+ dependabot-bundler-rake-13.1.0
+    rake (13.1.0)
     rake (13.0.3)
  dependabot-bundler-rexml-3.2.6
+ main
     regexp_parser (2.1.1)
     rexml (3.2.6)
     regexp_parser (2.8.2)
